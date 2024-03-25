@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "pipann/pipdummy2_DIF"
+	$phongexponenttexture "pipann/pipdummy_PHONG"
+	$bumpmap "pipann/pipdummy_NRM"
+
+
+	 $phong "1"
+
+	 $blendtintbybasealpha "1"
+}
